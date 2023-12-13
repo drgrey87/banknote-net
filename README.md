@@ -31,7 +31,7 @@ The dataset is saved as **24,826 x 258** flat table in [feather](./data/banknote
 
      ```
      # Create conda environment
-     conda create env -f env.yaml
+     conda env create -f env.yaml
 
      # Activate environment to run examples
      conda activate banknote_net
